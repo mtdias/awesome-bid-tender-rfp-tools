@@ -10,6 +10,7 @@ Logo | Tool | Description | Price | Link
 <img src="images/bidsearch.png" > | BidSearch | This platform collects government bids and RFPs from federal, state, local, and educational organizations nationwide, including some Canadian provinces. It delivers these opportunities directly to your email inbox | --- | [Link](https://www.bidsearch.com/)
 <img src="images/nationaltenders.png" > | National Tenders | It offers a one-stop solution for various tendering platforms like GeM/nprocure/eProcure/IREPS, etc., providing services from consulting to execution | --- | [Link](https://www.nationaltenders.com/)
 <img src="images/procureport.png" > | ProcurePort | A platform that streamlines the e-procurement process, offering significant cost savings and improved efficiency. It combines RFP, RFI, and RFQ into a single eRFX software | --- | [Link](https://www.procureport.com/)
+<img src="https://getvunna.com/apple-icon.png" width="48" > | Vunna | Covers European public tenders: TED for contracts above the EU thresholds plus the German and Dutch national portals below them. Notices are scored against a supplier profile rather than matched on keywords, and each match on a paid plan carries a written reason | Free tier, then EUR 29 or EUR 79 per month | [Link](https://getvunna.com/)
 
 ## Sales Tools
 
